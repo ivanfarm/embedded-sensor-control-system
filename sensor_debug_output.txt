@@ -1,0 +1,56 @@
+Embedded Sensor Control System
+Compass-based turning initialized
+
+Target heading: 90
+Current heading: 12 | Target: 90 | Error: 78
+Turning right
+Current heading: 28 | Target: 90 | Error: 62
+Turning right
+Current heading: 45 | Target: 90 | Error: 45
+Turning right
+Current heading: 67 | Target: 90 | Error: 23
+Turning right
+Current heading: 82 | Target: 90 | Error: 8
+Turning right
+Current heading: 88 | Target: 90 | Error: 2
+Motors stopped
+Target heading reached
+
+Target heading: 180
+Current heading: 91 | Target: 180 | Error: 89
+Turning right
+Current heading: 126 | Target: 180 | Error: 54
+Turning right
+Current heading: 154 | Target: 180 | Error: 26
+Turning right
+Current heading: 172 | Target: 180 | Error: 8
+Turning right
+Current heading: 179 | Target: 180 | Error: 1
+Motors stopped
+Target heading reached
+
+Target heading: 270
+Current heading: 181 | Target: 270 | Error: 89
+Turning right
+Current heading: 213 | Target: 270 | Error: 57
+Turning right
+Current heading: 241 | Target: 270 | Error: 29
+Turning right
+Current heading: 263 | Target: 270 | Error: 7
+Turning right
+Current heading: 269 | Target: 270 | Error: 1
+Motors stopped
+Target heading reached
+
+Target heading: 0
+Current heading: 271 | Target: 0 | Error: 89
+Turning right
+Current heading: 301 | Target: 0 | Error: 59
+Turning right
+Current heading: 335 | Target: 0 | Error: 25
+Turning right
+Current heading: 355 | Target: 0 | Error: 5
+Turning right
+Current heading: 1 | Target: 0 | Error: -1
+Motors stopped
+Target heading reached
